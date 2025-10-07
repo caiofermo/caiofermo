@@ -1,32 +1,12 @@
-# Caio Fernandes
+# Caio
 
 **`Desenvolvedor Backend`**
 
-Me chamo Caio Fernandes, tenho 17 anos e sou formado em Técnico em Informática. Sou usuário de Linux (Ubuntu) e atualmente sigo aprimorando meus estudos em Python, Django, C# e Banco de Dados, com foco em desenvolvimento backend.
-
-Tenho grande interesse em DevOps, área que venho admirando muito após iniciar meus estudos em Docker, e pretendo direcionar minha carreira nesse caminho no futuro.
+Apenas um jovem estudando e aprendendo a deselvolver softwares e DevOps.
 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
 <img 
     align="left" 
     alt="JavaScript" 
