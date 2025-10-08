@@ -1,55 +1,15 @@
-# caiofermo
+## Caio fernandes
 
-**`Desenvolvedor Backend`**
+desenvolvo algumas coisas e estudo devops no tempo livre.
 
-Apenas um jovem estudando e aprendendo a deselvolver softwares e DevOps.
+#### Tecnologias e ferramentas
 
-
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="C#" 
-    title="C3"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/> 
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/> 
-
-
-<br/>
-<br/>
-
+[![PYTHON](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
+[![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
+[![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
+[![DOCKER](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)]()
+[![API REST](https://img.shields.io/badge/api_rest-000000?style=for-the-badge&logo=postman&logoColor=white)]()
+[![LINUX](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)]()
+[![UBUNTU](https://img.shields.io/badge/ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+[![BASH](https://img.shields.io/badge/bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)]()
